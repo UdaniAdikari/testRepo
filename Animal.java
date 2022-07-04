@@ -4,7 +4,8 @@ class RealWorld {
     }
 }
 public class Animal {
-    String name = "Zeebra";
+    String name = "Zeebra hi";
+	
     public String getName() {
     return name;
     }
